@@ -1,4 +1,3 @@
-# My-website
 <!DOCTYPE html>
 <html>
 <title>W3.CSS Template</title>
@@ -29,7 +28,7 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Open Sans", sans-serif}
       <a href="#" class="w3-bar-item w3-button">Jane likes your post</a>
     </div>
   </div>
-  <a href="#" class="w3-bar-item w3-button w3-hide-small w3-right w3-padding-large w3-hover-white" title="Tanya"><img src="w3images/avatar3.png" class="w3-circle" style="height:25px;width:25px" alt="Tanya"></a>
+  <a href="#" class="w3-bar-item w3-button w3-hide-small w3-right w3-padding-large w3-hover-white" title="Tanya"><img src="https://i.pinimg.com/736x/a6/65/1a/a6651a5939bb787c2ba2a3a4465ee7bd--minons-memes-funny-minons.jpg" class="w3-circle" style="height:25px;width:25px" alt="Tanya"></a>
  </div>
 </div>
 
@@ -51,7 +50,7 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Open Sans", sans-serif}
       <div class="w3-card-2 w3-round w3-white">
         <div class="w3-container">
          <h4 class="w3-center">My Profile</h4>
-         <p class="w3-center"><img src="/w3images/avatar4.png" class="w3-circle" style="height:106px;width:106px" alt="Tanya"></p>
+         <p class="w3-center"><img src="https://i.pinimg.com/236x/34/5c/f2/345cf2a9e12172afd400523f37143d9b--silly-quotes-calm-quotes.jpg" class="w3-circle" style="height:106px;width:106px" alt="Tanya"></p>
          <hr>
          <p><i class="fa fa-pencil fa-fw w3-margin-right w3-text-theme"></i> Hopkins</p>
          <p><i class="fa fa-home fa-fw w3-margin-right w3-text-theme"></i> Fremont, California</p>
@@ -76,22 +75,22 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Open Sans", sans-serif}
          <div class="w3-row-padding">
          <br>
            <div class="w3-half">
-             <img src="/w3images/lights.jpg" style="width:100%" class="w3-margin-bottom">
+             <img src="https://i.pinimg.com/736x/04/08/ea/0408ea76228cfb0460635eef59d35aa7--funny-crazy-quotes-funny-math-quotes.jpg">
            </div>
            <div class="w3-half">
-             <img src="/w3images/nature.jpg" style="width:100%" class="w3-margin-bottom">
+             <img src="https://i.pinimg.com/736x/04/08/ea/0408ea76228cfb0460635eef59d35aa7--funny-crazy-quotes-funny-math-quotes.jpg" style="width:100%" class="w3-margin-bottom">
            </div>
            <div class="w3-half">
-             <img src="/w3images/mountains.jpg" style="width:100%" class="w3-margin-bottom">
+             <img src="https://i.pinimg.com/736x/04/08/ea/0408ea76228cfb0460635eef59d35aa7--funny-crazy-quotes-funny-math-quotes.jpg" style="width:100%" class="w3-margin-bottom">
            </div>
            <div class="w3-half">
-             <img src="/w3images/forest.jpg" style="width:100%" class="w3-margin-bottom">
+             <img src="https://i.pinimg.com/736x/04/08/ea/0408ea76228cfb0460635eef59d35aa7--funny-crazy-quotes-funny-math-quotes.jpg" style="width:100%" class="w3-margin-bottom">
            </div>
            <div class="w3-half">
-             <img src="/w3images/nature.jpg" style="width:100%" class="w3-margin-bottom">
+             <img src="https://i.pinimg.com/736x/04/08/ea/0408ea76228cfb0460635eef59d35aa7--funny-crazy-quotes-funny-math-quotes.jpg" style="width:100%" class="w3-margin-bottom">
            </div>
            <div class="w3-half">
-             <img src="/w3images/fjords.jpg" style="width:100%" class="w3-margin-bottom">
+             <img src="https://i.pinimg.com/736x/04/08/ea/0408ea76228cfb0460635eef59d35aa7--funny-crazy-quotes-funny-math-quotes.jpg" style="width:100%" class="w3-margin-bottom">
            </div>
          </div>
           </div>
@@ -156,10 +155,10 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Open Sans", sans-serif}
         <p>I am Tanya Chhabria as you can tell. I am twelve years old and am in 7th grade (hopkins). I love to read. I have not read Harry Potter because the first 3 pages were boring and "Your readers/listeners have to be engaged in the first few moments otherwise they are lost"-unknown. I have watched and read the Lord of the Rings (it is really awesome). I ice-skate, play piano, and play soccer (FYSC). I have a younger sister named simran.</p>
           <div class="w3-row-padding" style="margin:0 -16px">
             <div class="w3-half">
-              <img src="/w3images/lights.jpg" style="width:100%" alt="Northern Lights" class="w3-margin-bottom">
+              <img src="https://i.pinimg.com/originals/a5/0f/14/a50f146771161c821464047731b1f65f.jpg" style="width:100%" alt="Northern Lights" class="w3-margin-bottom">
             </div>
             <div class="w3-half">
-              <img src="/w3images/nature.jpg" style="width:100%" alt="Nature" class="w3-margin-bottom">
+              <img src="https://i.pinimg.com/736x/0b/34/39/0b34391b157377823edc43ebeb259c72--cute-minion-quotes-funny-minion.jpg" style="width:100%" alt="Nature" class="w3-margin-bottom">
           </div>
         </div>
         <button type="button" class="w3-button w3-theme-d1 w3-margin-bottom"><i class="fa fa-thumbs-up"></i>  Like</button> 
@@ -182,8 +181,8 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Open Sans", sans-serif}
         <h4>Angie Jane</h4><br>
         <hr class="w3-clear">
         <p>Have you seen this?</p>
-        <img src="/w3images/nature.jpg" style="width:100%" class="w3-margin-bottom">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        <img src="https://i.pinimg.com/736x/3e/0b/d9/3e0bd971ef4434d9354ee6dde37aed88--minions-cartoon-despicable-minions.jpg" style="width:50%" class="w3-margin-bottom">
+        <p> Life is fun</p>
         <button type="button" class="w3-button w3-theme-d1 w3-margin-bottom"><i class="fa fa-thumbs-up"></i>  Like</button> 
         <button type="button" class="w3-button w3-theme-d2 w3-margin-bottom"><i class="fa fa-comment"></i>  Comment</button> 
       </div> 
@@ -196,7 +195,7 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Open Sans", sans-serif}
       <div class="w3-card-2 w3-round w3-white w3-center">
         <div class="w3-container">
           <p>Upcoming Events:</p>
-          <img src="/w3images/forest.jpg" alt="Forest" style="width:100%;">
+          <img src="https://i.pinimg.com/736x/a6/65/1a/a6651a5939bb787c2ba2a3a4465ee7bd--minons-memes-funny-minons.jpg" alt="Forest" style="width:100%;">
           <p><strong>Holiday</strong></p>
           <p>Friday 15:00</p>
           <p><button class="w3-button w3-block w3-theme-l4">Info</button></p>
